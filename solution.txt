@@ -1,0 +1,1 @@
+The difference between git stash apply and git stash pop is git stash apply leaves the stash file after applying but in git stash pop the stash file gets removed.
